@@ -12,3 +12,8 @@
 
 ## 📦 Installation  
 Coming soon...  
+
+### More docs coming soon!
+
+##🤝 Contributing
+We welcome contributions! Check out our [Contribution Guide]() for details.
