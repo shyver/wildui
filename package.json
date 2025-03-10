@@ -1,0 +1,19 @@
+{
+  "name": "wildui",
+  "version": "1.0.0",
+  "description": "**WildUI** is a fully customizable UI component library for **Lynx**, designed to look great by default while remaining highly flexible. Inspired by **ShadCN**, it provides:",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.6.1",
+  "dependencies": {
+    "button": "^1.0.0"
+  }
+}
